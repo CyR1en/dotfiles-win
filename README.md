@@ -27,7 +27,8 @@
 - [YASB Reborn](https://github.com/amnweb/yasb)
 - [Tacky-Borders](https://github.com/lukeyou05/tacky-borders)
 - [FastFetch](https://github.com/fastfetch-cli/fastfetch)
-- [alacritty](https://github.com/alacritty/alacritty)
+- [Alacritty](https://github.com/alacritty/alacritty)
+- [Spicetify](https://spicetify.app/)
 
 ### Requirements
 - [JetBrainsMono Nerd Font](https://www.nerdfonts.com/font-downloads)
