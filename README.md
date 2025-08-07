@@ -23,12 +23,13 @@
 </p>
 
 ### Software
-- [Komorebi](https://github.com/LGUG2Z/komorebi)
-- [YASB Reborn](https://github.com/amnweb/yasb)
-- [Tacky-Borders](https://github.com/lukeyou05/tacky-borders)
-- [FastFetch](https://github.com/fastfetch-cli/fastfetch)
-- [Alacritty](https://github.com/alacritty/alacritty)
-- [Spicetify](https://spicetify.app/)
+- [Komorebi](https://github.com/LGUG2Z/komorebi) - Windows Manager
+- [YASB Reborn](https://github.com/amnweb/yasb) - Status Bar
+- [Tacky-Borders](https://github.com/lukeyou05/tacky-borders) - Custom Borders
+- [FastFetch](https://github.com/fastfetch-cli/fastfetch) - System Info
+- [Alacritty](https://github.com/alacritty/alacritty) - Terminal Emulator
+- [Spicetify](https://spicetify.app/) - Spotify Customization
+- [Better Discord](https://betterdiscord.app/) - Discord Cuztomization
 
 ### Requirements
 - [JetBrainsMono Nerd Font](https://www.nerdfonts.com/font-downloads)
